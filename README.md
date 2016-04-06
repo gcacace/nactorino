@@ -119,8 +119,6 @@ License
 -------------
 Copyright © 2016 Gianluca Cacace
 
-Copyright for portions of this project are held by Ian Taylor, 2015.
-
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the “Software”), to deal in the Software without
